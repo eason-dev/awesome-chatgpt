@@ -55,6 +55,7 @@
 - [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
+- [Toprank](https://github.com/nowork-studio/toprank): Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes.
 
 ### Launcher Extensions
 
