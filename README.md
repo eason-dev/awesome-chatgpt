@@ -34,6 +34,7 @@
 ## Official Resource
 
 - [ChatGPT website](https://chat.openai.com/)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [ChatGPT launch blog post](https://openai.com/blog/chatgpt/)
 
 ## Use ChatGPT Anywhere
