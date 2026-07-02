@@ -55,6 +55,7 @@
 - [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
+- [GPT for Sheets](https://docgpt.ai/gpt-for-sheets): Use ChatGPT and other AI models inside Google Sheets for formulas, enrichment, and bulk workflows.
 
 ### Launcher Extensions
 
