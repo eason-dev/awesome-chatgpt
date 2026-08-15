@@ -86,6 +86,7 @@
 
 ## Applications
 
+- [Emu](https://image.tinchak0207.xyz): Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - [summarize.site](https://chrome.google.com/webstore/detail/summarize/lmhkmibdclhibdooglianggbnhcbcjeh): Chrome extension to summarize web page content.
 - [commitgpt](https://github.com/RomanHotsiy/commitgpt): Automatically generate commit messages using ChatGPT.
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action to let ChatGPT review PRs for you.
