@@ -101,6 +101,8 @@
 
 ## 開發工具（API、SDK）
 
+- [SandBase CLI](https://github.com/sandbaseai/cli)：開源命令列工具和 MCP 橋接器，透過單一介面存取 2,000+ 個 AI 模型。
+
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)（Python）：輕量化、基於 TLS 的 ChatGPT API 可以在您的 CLI 中使用，無需使用瀏覽器或驗證金鑰。
 - [pip/revChatGPT](https://github.com/acheong08/ChatGPT)（Python）：與 OpenAI 的 ChatGPT API 互動的輕量化套件。採用逆向工程手法。
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客戶端。
