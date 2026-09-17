@@ -48,6 +48,7 @@
 
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): Windows/MacOS desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
+- [Orkas](https://github.com/Orkas-AI/Orkas): Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Supports user-supplied OpenAI keys.
 
 ### Editors
 
