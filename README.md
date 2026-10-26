@@ -106,6 +106,7 @@
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api) (Node.js): Node.js client for the unofficial ChatGPT API.
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart) (Dart): Dart client for the unofficial ChatGPT API.
 - [go-chatgpt](https://github.com/abhayptp/go-chatgpt) (Golang): An unofficial ChatGPT client in Golang.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Experiments
 
