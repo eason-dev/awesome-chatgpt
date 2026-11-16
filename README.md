@@ -91,6 +91,7 @@
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action to let ChatGPT review PRs for you.
 - [StackExplain](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
 - [ChatMind](https://www.chatmind.tech/): Generating and Modifying Mind Maps through AI Dialogue.
+- [HumanPen](https://humanpen.net/): Academic & research document SaaS for document-level humanizing (DOCX/PPTX/TXT), translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects (100 signup credits; commercial credit-based pricing).
 
 ## Prompts
 
